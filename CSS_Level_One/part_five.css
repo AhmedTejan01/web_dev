@@ -1,0 +1,29 @@
+/* selected tag {
+    property : value
+} */
+
+.firstdiv {
+    color: gray;
+    border-color: red;
+    border-width: light;
+    border-style: solid;
+}
+
+.seconddiv {
+    color: violet;
+}
+
+.hire {
+    color: crimson;
+    margin-left: 200px;
+}
+
+#slogan {
+    color: darkorchid;
+}
+
+#search {
+    color: darkseagreen;
+    text-align: center;
+    text-transform: uppercase;
+}

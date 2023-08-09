@@ -1,0 +1,30 @@
+/* selected tag {
+    property : value
+} */
+
+body {
+    background: url(6.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+div {
+    color: black;
+}
+
+h2{ 
+    color: orange;
+}
+
+table{
+    color: blue;
+}
+
+table thead {
+    color: black;
+}
+
+span {
+    color: blue;
+}
